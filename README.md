@@ -3,7 +3,7 @@
 
 Natural Language Processing (NLP) to overcome the problem of large datasets and analyze it. The task is to predict whether the review given is positive or negative.
 
-Steps to be followed :
+### Steps to be followed :
 
  1.Importing Libraries and Datasets
  
@@ -15,9 +15,9 @@ Steps to be followed :
  
  5.Evaluation and Prediction
  
- Importing Libraries and Datasets
+ ### Importing Libraries and Datasets
  
-The libraries used are : 
+## The libraries used are : 
 
 Pandas : For importing the dataset.
 
